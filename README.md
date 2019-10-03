@@ -15,7 +15,7 @@ open a console(i use bash) and enter the directory "/backend"
 Later...
 
 -------frontend------------
-open a new console(i use bash) and enter the directory "/frontend"
+open a new console(i use bash) and enter the directory "/psiconsulta"
 
 1. npm install
 2. npm run serve
@@ -28,3 +28,6 @@ and click
 You can use this example user or create a new user
 - user: a@hotmail.com
 - password: 123
+
+-user: hola@hotmail.com
+-password: holahola
